@@ -6,7 +6,7 @@
 
     <div id="logreg">
 
-    <div><img src="assets/images/profil.jpg" alt="Author image"></div>
+    <div><img src="assets/images/profil.jpg" alt="Author image"/></div>
     <div>
         <h2>Kristina Mladenovic</h2>
         

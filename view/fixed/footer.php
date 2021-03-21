@@ -3,7 +3,7 @@
     <div>
         <div>
             <a href="index.php">
-            <img src="assets/images/logosiv.png" alt="Logo">
+            <img src="assets/images/logosiv.png" alt="Logo"/>
             </a>
         </div>
         <p>

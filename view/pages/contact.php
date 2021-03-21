@@ -15,13 +15,13 @@
         <div id="forma">
             <h2>Get in touch</h2>
             <form action="models/poruka.php" method="post">
-                <input type="text" id="email" placeholder="E-mail">
+                <input type="text" id="email" placeholder="E-mail"/>
                 <p id="greskaMail"></p>
-                <input type="text" id="naslov" placeholder="Title">
+                <input type="text" id="naslov" placeholder="Title"/>
                 <p id="greskaNaslov"></p>
-                <textarea id="poruka" placeholder="Message" ></textarea>
+                <textarea id="poruka" placeholder="Message"></textarea>
                 <p id="greskaTekst"></p>
-                <input type="button" value="Send" id="btnPoruka">
+                <input type="button" value="Send" id="btnPoruka"/>
                 <p id="greskaPoruka"></p>
             </form>
         </div>
@@ -31,7 +31,7 @@
 
             <div>
                 <form action="">
-                    <input type="hidden" id="idAnkete" value="<?=$anketa['idAnkete']?>">
+                    <input type="hidden" id="idAnkete" value="<?=$anketa['idAnkete']?>"/>
             <?php
                 foreach($odg as $o):
             ?>
@@ -46,7 +46,7 @@
                         echo "disabled=true";
                     }
                 ?>
-                > <?=$o['tekstOdgovora']?>
+                /> <?=$o['tekstOdgovora']?>
 
                 <br>
             <?php
@@ -59,7 +59,7 @@
                         echo "disabled=true";
                     }
                 ?>
-            >
+            />
             <input type="button" value="Results" id="rezultatiAnkete">
             <p id="greskaAnketa">
 
