@@ -1,3 +1,4 @@
+<?php?>
 <div id="adminDrzac">
 
     <div id="nav">
