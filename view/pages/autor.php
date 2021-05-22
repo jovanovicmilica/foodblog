@@ -10,11 +10,10 @@
 
     <div><img src="assets/images/profil.jpg" alt="Author image"/></div>
     <div>
-        <h2>Kristina Mladenovic</h2>
+        <h2>Jovanovic Milica</h2>
         
         <p>Internet technologies</p>
-        <p>5/19</p>
-        <p>Web programming PHP1</p>
+        <p>88/18</p>
     </div>
 
     </div>
